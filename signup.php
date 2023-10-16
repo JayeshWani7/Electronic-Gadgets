@@ -25,8 +25,7 @@
    </style>
 </head>
 
-<!-- signup container====================================================================== -->
-<!--<h3 style='color:brown;text-align:center;'> <ins> Please signup</ins></h3>-->
+
 
 <div class="signup_div">
 <form action="includes/signup.inc.php" method="post"> <br>
