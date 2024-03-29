@@ -1,2 +1,2 @@
-# ELectronic-Gadgets
+# Electronic-Gadgets
 
